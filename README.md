@@ -6,6 +6,12 @@
 
 文本来自 [Unity-TextMeshPro-Chinese-Characters-Set](https://github.com/wy-luke/Unity-TextMeshPro-Chinese-Characters-Set.git)
 
-![](./IMG/PixPin_2023-12-11_00-08-29.png)
+贴图尺寸为 8192 x 4096，使用 SDF32 采样
 
-![](./IMG/PixPin_2023-12-10_22-55-37.png)
+## 使用
+
+确保项目已正确安装包 `com.unity.textmeshpro`，并且导入需要的基本资源
+
+导入 `HarmonyOS_Sans_SC.unitypackage`
+
+如遇到 Shader 错误，只需重新选择字体材质的 Shader 即可
